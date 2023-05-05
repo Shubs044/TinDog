@@ -2,6 +2,23 @@
 
 Preview of website: https://shubs044.github.io/TinDog/
 
+We've created a simple yet stunning website using the Bootstrap framework. This website is perfect for those who want to showcase their portfolio, create a landing page, or simply practice their HTML/CSS skills.
+
+Features:
+
+1. Fully responsive design: Our website looks great on all devices, from desktops to mobile phones.
+2. Easy to customize: We've used Bootstrap to make it easy for you to customize the website to your liking.
+3. Clean and minimalistic design: We believe that less is more. Our website has a clean and minimalistic design that focuses on the content.
+
+How to use:
+
+1. Download the code from our GitHub repository.
+2. Open the index.html file in your browser to see the website in action.
+3. Customize the website by editing the HTML/CSS files. You can use your favorite text editor or IDE to do this.
+4. Once you're happy with the changes, upload the files to your web hosting server and enjoy your new website!
+
+We hope you enjoy our Bootstrap HTML/CSS website. If you have any questions or feedback, please don't hesitate to reach out to me.
+
 ## SVGs used in the project:
 
 Apple Logo:
