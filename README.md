@@ -1,6 +1,6 @@
 # TinDog Project
 
-Preview of website: https://shubs044.github.io/TinDog/
+Preview of website: https://shubs044.github.io/TinDog-Web-Design/
 
 We've created a simple yet stunning website using the Bootstrap framework. This website is perfect for those who want to showcase their portfolio, create a landing page, or simply practice their HTML/CSS skills.
 
